@@ -1,0 +1,16 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch --env-file=.env httpserver2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "npm-watch": "^0.13.0"
+  }
+}
